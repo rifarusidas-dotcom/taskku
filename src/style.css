@@ -219,3 +219,12 @@ footer {
   color: #64748b;
   font-size: 14px;
 }
+/* Efek hover pada kartu tugas */
+.task-item {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.task-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
