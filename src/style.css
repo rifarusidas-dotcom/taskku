@@ -228,3 +228,10 @@ footer {
   transform: translateY(-2px);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
 }
+/* Tampilan saat daftar tugas kosong */
+.empty {
+  text-align: center;
+  padding: 30px 15px;
+  color: #64748b;
+  font-style: italic;
+}
