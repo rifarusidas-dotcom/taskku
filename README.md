@@ -7,3 +7,4 @@ Aplikasi TaskKu adalah aplikasi pengelola tugas kuliah mahasiswa.
 - Mengedit tugas
 - Menghapus tugas
 - Mengubah status tugas
+Dibuat menggunakan TypeScript dan Vite.
